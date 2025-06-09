@@ -1,73 +1,62 @@
-<h1 align="center">Hi 👋, I'm Sri Manikanta Battu</h1>
-<h3 align="center">A passionate Full Stack Developer & DSA Enthusiast from India</h3>
+<h1 align="center">Hey! I'm Sri Manikanta Battu 👋</h1>
+<h3 align="center">Full Stack Developer | Cloud Enthusiast | Hackathon Winner</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srimanikantaBattu&label=Profile%20views&color=0e75b6&style=flat" alt="srimanikantaBattu" /> </p>
+<div align="center">
+  <img alt="Coding" width="800" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif">
+</div>
 
-- 🔭 I’m currently working on **Thestagenonprofit - US based student-mentor dashboard**
-
-- 🌱 I’m currently learning **Cloud Computing, Next.js, and ML deployment**
-
-- 👯 I’m looking to collaborate on **Open Source, AI Projects, and EdTech Platforms**
-
-- 👨‍💻 All of my projects are available at [https://writespot.vercel.app](https://writespot.vercel.app)
-
-- 📝 I write blogs on [Hashnode and my own platform](https://writespot.vercel.app)
-
-- 💬 Ask me about **React, Node.js, Tailwind, MongoDB, DSA, or anything tech!**
-
-- 📫 Reach me at **srimanikantabattu04@gmail.com**
-
-- 📄 Know about my experiences from [My Resume](mailto:srimanikantabattu04@gmail.com)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Passionate+Full+Stack+Developer;Cloud+%26+AI+Explorer;Hackathon+Winner+%7C+Tech+Community+Lead;Building+Impactful+Tech+Solutions" />
+</p>
 
 ---
 
-## 🛠️ Languages and Tools
+## 🚀 About Me
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,py,js,ts,html,css,react,nodejs,mongodb,tailwind,bootstrap,vscode,git,github,figma,postman,linux" />
+- 🛠️ Skilled in **React, Node.js, MongoDB, Tailwind, TypeScript**
+- 🧠 Winner – Generative AI National Hackathon (NNRG)
+- 🌐 Developer – **GDGC Website**, **TheStage Nonprofit US**
+- ✍️ Creator – [WriteSpot Blogging Platform](https://writespot.vercel.app/)
+- 📍 Exploring **Cloud, AI, and System Design**
+
+---
+
+## ⚒️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,py,js,ts,react,nodejs,mongodb,tailwind,bootstrap,git,github,vscode,postman,vercel,figma,linux" />
 </p>
 
 ---
 
 ## 📈 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=srimanikantaBattu&show_icons=true&theme=tokyonight" alt="github stats" />
-</p>
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=srimanikantaBattu&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srimanikantaBattu&layout=compact&theme=tokyonight" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=srimanikantaBattu&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=srimanikantaBattu&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🏆 Achievements
+## 🔗 Let's Connect
 
-- 🥇 1st Prize - Generative AI National Hackathon (NNRG)
-- 🏅 Finalist - Krithothon 2.0 Hackathon
-- 🥇 Gold Medalist - Ramanujan Math Olympiad
-- 💻 Certified - Google Cloud Career Readiness Program (ACE Track)
-- 🎖️ Elite Certified - Modern C++ Programming by NPTEL
-- 🧠 Smart Coder - DSA by Smart Interviews
+<p align="center">
+  <a href="https://linkedin.com/in/srimanikantabattu">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:srimanikantabattu04@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/sri_manikanta_battu/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://writespot.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 📚 Noteworthy Projects
-
-- 🔥 **[AI Location-Based History](https://github.com/srimanikantaBattu/Krithoathon2.O)** - Showcasing historical insights using camera + GPS
-- ✍️ **[WriteSpot](https://github.com/srimanikantaBattu/WriteSpot)** - Full-stack blogging platform with user auth
-- 📊 **Literacy Gap Analysis** - Rural vs Urban education insights using Power BI & R
-
----
-
-## 🌐 Connect with me
-
-<p align="left">
-<a href="https://linkedin.com/in/srimanikantabattu" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://leetcode.com/u/sri_manikanta_battu/" target="blank"><img src="https://img.shields.io/badge/-LeetCode-%2300CC66?style=for-the-badge&logo=LeetCode&logoColor=white"/></a>
-<a href="mailto:srimanikantabattu04@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1abc9c,100:9b59b6&height=100&section=footer&animation=fadeIn" />
 </p>
