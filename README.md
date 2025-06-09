@@ -14,7 +14,7 @@ I'm a passionate Full Stack Developer focused on building scalable and efficient
 - 🎯 Created a payment gateway system, QR code-based authentication, and dynamic event dashboards
 - 📚 Consistently upskilling in Cloud Computing, TypeScript, ML Integration
 - ✨ Open to building and collaborating on high-impact software projects
-- 🌐 Check out my portfolio: [writespot.vercel.app](https://writespot.vercel.app)
+<!-- - 🌐 Check out my portfolio: [writespot.vercel.app](https://writespot.vercel.app) !-->
 
 ## Tech Stack
 
