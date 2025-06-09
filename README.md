@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | Cloud Enthusiast</h3>
 
 <div align="center">
-  <img alt="Coding" width="800" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif">
+  <img alt="Coding" width="800" src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif">
 </div>
 
 ## About Me
