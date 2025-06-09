@@ -14,6 +14,7 @@ I'm a passionate Full Stack Developer focused on building scalable and efficient
 - 🎯 Created a payment gateway system, QR code-based authentication, and dynamic event dashboards
 - 📚 Consistently upskilling in Cloud Computing, TypeScript, ML Integration
 - ✨ Open to building and collaborating on high-impact software projects
+- 🌐 Check out my portfolio: [writespot.vercel.app](https://writespot.vercel.app)
 
 ## Tech Stack
 
@@ -41,11 +42,11 @@ I'm a passionate Full Stack Developer focused on building scalable and efficient
 ### Tools & Platforms
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,vscode,figma,linux" alt="Development Tools"/>
+    <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,docker,aws,gcp,vscode,figma,linux" alt="Development Tools"/>
   </a>
 </p>
 
-<!--
+
 ## GitHub Analytics
 
 <div align="center">
@@ -58,18 +59,21 @@ I'm a passionate Full Stack Developer focused on building scalable and efficient
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=srimanikantaBattu&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=srimanikantaBattu&theme=nord&hide_border=true" alt="GitHub Streak"/>
 </div>
--->
+
 
 ## Let's Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/srimanikantabattu/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://x.com/srimanikanta04"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X (Twitter)"/></a>
 </p>
 
 ## Coding Profiles
 
 <p align="left">
   <a href="https://leetcode.com/u/sri_manikanta_battu/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://www.codechef.com/users/srimanikanta04"><img src="https://img.shields.io/badge/CodeChef-964B00?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef"/></a>
+  <a href="https://codeforces.com/profile/srimanikanta04"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"/></a>
 </p>
 
 ---
