@@ -51,6 +51,7 @@ I'm a passionate Full Stack Developer focused on building scalable and efficient
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=srimanikantaBattu&theme=nord&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srimanikantaBattu&theme=nord&show_icons=true&locale=en&layout=compact" alt="jakkakarthik2004" />
 </div>
 
 <br/>
