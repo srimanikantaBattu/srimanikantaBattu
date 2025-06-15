@@ -16,30 +16,35 @@ I'm a passionate Full Stack Developer focused on building scalable and efficient
 - ✨ Open to building and collaborating on high-impact software projects
 <!-- - 🌐 Check out my portfolio: [writespot.vercel.app](https://writespot.vercel.app) !-->
 
-## Tech Stack
-
-### Languages
+### 🧠 Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,py,js,ts" alt="Programming Languages"/>
+    <img src="https://skillicons.dev/icons?i=cpp,py,js,ts,dart,sql" alt="Programming Languages"/>
   </a>
 </p>
 
-### Frontend Development
+### 🎨 Frontend Development
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" alt="Frontend Technologies"/>
   </a>
 </p>
 
-### Backend & Database
+### 📱 Mobile App Development
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,react" alt="Mobile App Development Tools"/>
+  </a>
+</p>
+
+### 🛠️ Backend & Database
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,firebase" alt="Backend Technologies"/>
   </a>
 </p>
 
-### Tools & Platforms
+### ⚙️ Tools & Platforms
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,docker,aws,gcp,vscode,figma,linux" alt="Development Tools"/>
