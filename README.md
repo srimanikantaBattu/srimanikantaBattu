@@ -9,42 +9,42 @@
 
 I'm a passionate Full Stack Developer focused on building scalable and efficient web applications. I have experience building real-time systems, AI-based apps, and end-to-end platforms across frontend and backend technologies.
 
-- 🚀 Currently working with **Thestagenonprofit (USA)** & **Google Developer Groups (GDGC VNRVJIET)**
-- 💡 Built AI solutions using GPS, camera, and the Gemini API for real-time historical insights
-- 🎯 Created a payment gateway system, QR code-based authentication, and dynamic event dashboards
-- 📚 Consistently upskilling in Cloud Computing, TypeScript, ML Integration
-- ✨ Open to building and collaborating on high-impact software projects
+-  Currently working with **Thestagenonprofit (USA)** & **Google Developer Groups (GDGC VNRVJIET)**
+-  Built AI solutions using GPS, camera, and the Gemini API for real-time historical insights
+-  Created a payment gateway system, QR code-based authentication, and dynamic event dashboards
+-  Consistently upskilling in Cloud Computing, TypeScript, ML Integration
+-  Open to building and collaborating on high-impact software projects
 <!-- - 🌐 Check out my portfolio: [writespot.vercel.app](https://writespot.vercel.app) !-->
 
-### 🧠 Languages
+###  Languages
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,py,js,ts,dart,sql" alt="Programming Languages"/>
   </a>
 </p>
 
-### 🎨 Frontend Development
+###  Frontend Development
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" alt="Frontend Technologies"/>
   </a>
 </p>
 
-### 📱 Mobile App Development
+###  Mobile App Development
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=flutter,react" alt="Mobile App Development Tools"/>
   </a>
 </p>
 
-### 🛠️ Backend & Database
+### 🛠 Backend & Database
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,firebase" alt="Backend Technologies"/>
   </a>
 </p>
 
-### ⚙️ Tools & Platforms
+### ⚙ Tools & Platforms
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,docker,aws,gcp,vscode,figma,linux" alt="Development Tools"/>
