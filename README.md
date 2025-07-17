@@ -37,14 +37,14 @@ I'm a passionate Full Stack Developer focused on building scalable and efficient
   </a>
 </p>
 
-### 🛠 Backend & Database
+###  Backend & Database
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,firebase" alt="Backend Technologies"/>
   </a>
 </p>
 
-### ⚙ Tools & Platforms
+###  Tools & Platforms
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,docker,aws,gcp,vscode,figma,linux" alt="Development Tools"/>
@@ -84,4 +84,4 @@ I'm a passionate Full Stack Developer focused on building scalable and efficient
 
 ---
 
-📫 **Contact:** srimanikantabattu04@gmail.com
+ **Contact:** srimanikantabattu04@gmail.com
