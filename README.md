@@ -1,5 +1,5 @@
 <h1 align="center">Hey! I'm Sri Manikanta Battu</h1>
-<h3 align="center">Full Stack Developer | Cloud Enthusiast</h3>
+<h3 align="center">Developer | Machine Learning</h3>
 
 <div align="center">
   <img alt="Coding" width="800" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
