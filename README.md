@@ -10,25 +10,9 @@
 <h2 align="center">Tech Stack & Tools</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,py,js,ts,dart,sql,react,html,css,tailwind,bootstrap,flutter,nodejs,express,mongodb,postgresql,firebase,git,github,postman,vercel,docker,aws,gcp,vscode,figma,linux&perline=10" alt="Programming Languages and Tools"/>
+    <img src="https://skillicons.dev/icons?i=cpp,py,js,ts,dart,react,html,css,tailwind,bootstrap,flutter,nodejs,express,mongodb,postgresql,firebase,git,github,postman,vercel,docker,aws,gcp,vscode,figma,linux&perline=10" alt="Programming Languages and Tools"/>
   </a>
 </p>
-
-<br/>
-
-<h2 align="center">GitHub Analytics</h2>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=srimanikantaBattu&theme=nord&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srimanikantaBattu&theme=nord&show_icons=true&locale=en&layout=compact" alt="Sri Manikanta Battu Top Languages" />
-</div>
-<br/>
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=srimanikantaBattu&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=srimanikantaBattu&theme=nord&hide_border=true" alt="GitHub Streak"/>
-</div>
 
 <br/>
 
